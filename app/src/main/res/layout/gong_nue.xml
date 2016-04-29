@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/gongnue"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="更新之后，楼主从白银走到黑二，在每个段位都呆了一阵子，发现十本打钱效率最高的杯段在水晶一到黑三，具体点来说就是大约2350到2650，再高了活鱼基本吃不动或者吃起来很伤，再低了活鱼防御渣但是普遍穷，算奖励的话效率同样不高，所以这是楼主觉得最好的打钱杯段
+　　这次更新除掉了高本打钱的重要来源，高杯偷本，所以在偏高的杯段打钱，王是必不可少的，主要是女王，因为活鱼占总刷墙经济比例大幅度提高，没有女王很难吃得下，打钱效率很低，所以楼主建议经济体怕见允许的情况下充电钱秒女王的时间吧
+　　打鱼最重要的是心态，谁都有在正确的杯段正确的配兵但是却搜不到鱼的郁闷的情况，这是不可避免的，如果搜10W到15W还没鱼，那么要么降杯，要么就先去忙点别的吧，也许就是那一阵没鱼或者点背呢
+　　关于兵种和药水，楼主的配置是2暗黑营不停造石头，剩下兵力胡子mm炸弹，我喜欢的数量比例是240人口92mm64胡子2石头12炸弹
+　  看到这里有些人可能要吐槽石头了，因为又贵成本又高，但是对于秒女王时间的玩家来说，墙科技防御肯定都比女王等级慢得多的多，与其十本大后期天天黑水爆 库还不如前期就用，不仅提升了大钱的效率，同时石头和胖子完全是两个概念，有高级女王的一用就知道区别了，45分钟不能保证把把用得上石头，所以石头没造 出来的时候就只能勉为其难用胖子代替了，但是打活鱼效果明显下滑，同时成本对于打得多的玩家完全不用担心，楼主两个暗黑营不停造石头，最高记录两天不加速 黑库从0攒到了18W升女王，所以打得多根本不在乎那点成本的
+　　最后一个就是时间问题，每一天的鱼情都不一样，每一段时间的鱼情都会有差异，所以打鱼的人要做的就是找到鱼群而不是守在一个地方等鱼，个人觉得过了凌晨 2600以上鱼情好，死鱼开始多，中午下午2450左右水晶一鱼情好，因为黑牌也没死鱼，紫一去撸低防活鱼很容易"
+            />
+    </LinearLayout>
+</ScrollView>

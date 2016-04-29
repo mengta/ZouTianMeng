@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/zhenxing"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="上面这个应该是多玩比较常见的阵形了，4电塔护黑，aoe的分布也比较合理，这个阵我先后换过两次,
+                第一次是满9级墙不久后，还有一次是满4电塔后，第一次换的时候显然防御还不到位，被拖鞋王爆过黑油，气球、野猪等等…虽然看起来阵形不错,
+                但是欠缺一定的引导，胖子只要一进来火力被吸引过去双王就很容易跑到中间直取黑油罐。"/>
+        </LinearLayout>
+</ScrollView>
